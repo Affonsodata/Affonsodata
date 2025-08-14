@@ -4,7 +4,8 @@ Bem-vindo ao meu perfil no GitHub!
 
 ## Sobre Mim
 
-Sou um profissional em transição para a área de Análise e Desenvolvimento de Sistemas, com uma formação diversificada em Técnico em Mecânica e experiência em áreas comercial e industrial. Estou focado em aprender e desenvolver habilidades em Python e AWS Cloud, buscando sempre combinar minha experiência técnica com novas competências em tecnologia da informação.
+Profissional com formação em Técnico em Mecânica e experiência diversificada em áreas comercial e industrial. Iniciei minha carreira na corretagem de imóveis, desenvolvendo habilidades em negociação e gestão de clientes. Posteriormente, atuei como inspetor de solda offshore, garantindo a qualidade e segurança das soldas em estruturas offshore.
+Atualmente, estou em transição para a área de Análise e Desenvolvimento de Sistemas, buscando combinar minha experiência técnica com novas habilidades em tecnologia da informação. Valorizo a ética no trabalho, a sustentabilidade e a inovação, e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Contudo, sempre conectando a tecnologia no meu dia a dia como técnico. Essa área sempre me atraiu e agora resolvi me dedicar ao que sempre gostei.
 
 ## Habilidades
 
