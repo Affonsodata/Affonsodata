@@ -25,3 +25,22 @@ Atualmente, estou em transição para a área de Análise e Desenvolvimento de S
 ## Contato
 
 Sinta-se à vontade para entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/affonsodata) para discutir oportunidades de colaboração ou apenas para trocar ideias!
+
+Projetos
+
+📂 Meus Projetos
+(Projetos inspirados em repositórios públicos)
+
+🔢 Calculadora em Python
+
+Código baseado no repositório python-beginners/projects.
+
+git clone https://github.com/python-beginners/calculator.git
+
+🌐 Página HTML/CSS (Portfólio Simples)
+
+Adaptado do projeto codewithsadee/portfolio.
+
+📊 Análise de Dados com Pandas
+
+Dataset do Kaggle + tutorial do Real Python.
